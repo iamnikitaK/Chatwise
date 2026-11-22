@@ -34,36 +34,12 @@ Chatwise/
 └── .gitignore
 ```
 
-## ⚙️ Installation & Setup
 
-**1. Clone the repository**
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
-
-**2. Navigate to the project directory**
-
-```bash
-cd Voxora
-```
-
-**3. Install dependencies**
-
-```bash
-pip install -r requirements.txt
-```
-
-**4. Run the application**
-
-```bash
-streamlit run app.py
-```
 
 ## 📊 How to Use
 
 1. Export your WhatsApp chat as a `.txt` file.
-2. Open the Voxora application.
+2. Open the Chatwise application.
 3. Upload your exported chat file.
 4. Select a user or choose Overall.
 5. Click on Show Analysis to explore the insights.
